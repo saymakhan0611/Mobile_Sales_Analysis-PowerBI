@@ -25,6 +25,16 @@ Typical data preparation activities included:
 - Total Transactions =COUNT(Sales[Transaction_ID])
 - Average Sales =AVERAGE(Sales[Total_Sales])
 3) Visualizations
+- KPI Cards
+- Map
+- Line Chart
+- Funnel Chart
+- Pie Chart
+- Table
+- Area/Line Chart
+- Bar Chart
+- Slicers
+
 ## Dashboard
 <img width="1416" height="892" alt="Screenshot" src="https://github.com/user-attachments/assets/a27707a5-1a2a-4f72-9db7-357fad47d675" />
 
