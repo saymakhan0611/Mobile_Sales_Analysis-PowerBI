@@ -24,7 +24,10 @@ Typical data preparation activities included:
 - Total Quantity =SUM(Sales[Quantity])
 - Total Transactions =COUNT(Sales[Transaction_ID])
 - Average Sales =AVERAGE(Sales[Total_Sales])
-3) Visualizations 
+3) Visualizations
+## Dashboard
+<img width="1416" height="892" alt="Screenshot" src="https://github.com/user-attachments/assets/a27707a5-1a2a-4f72-9db7-357fad47d675" />
+
 
 
 
