@@ -7,6 +7,7 @@ This project is an interactive Motorola Mobile Sales Analysis Dashboard develope
 - Total Quantity-Represents the total number of mobile units sold.
 - Total Transactions-Represents the number of sales transactions.
 - Average-Average metric displayed on the dashboard for the selected data.
+- Dashboard interaction <a href="https://github.com/saymakhan0611/Mobile_Sales_Analysis-/blob/main/Screenshot.png">View Dashboard</a>
 ## Process Description
 1) Data Cleaning & Transformation-The dataset was prepared using Power Query before creating the dashboard.
 Typical data preparation activities included:
