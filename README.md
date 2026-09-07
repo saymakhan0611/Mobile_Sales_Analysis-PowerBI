@@ -27,6 +27,13 @@ Typical data preparation activities included:
 3) Visualizations
 ## Dashboard
 <img width="1416" height="892" alt="Screenshot" src="https://github.com/user-attachments/assets/a27707a5-1a2a-4f72-9db7-357fad47d675" />
+## Key Insights 
+- Xiaomi is a strong-performing brand-Xiaomi records approximately 13.58M in sales, making it the highest-selling brand among the brands shown.
+- Samsung has strong transaction performance-Samsung has 68 transactions, indicating strong customer demand.
+- Higher customer ratings dominate-The highest number of customers have given a 5-star rating (128), which indicates strong customer satisfaction.
+- Payment methods are diversified-Customers use multiple payment methods, including UPI, cards, and cash. This indicates the importance of supporting multiple payment options.
+- Sales vary by day-The daily sales chart shows noticeable variation between days, suggesting that customer purchasing behavior changes throughout the week.
+- Sales are geographically distributed-The map shows sales activity across multiple Indian cities, allowing management to identify regions with stronger sales potential.
 
 
 
